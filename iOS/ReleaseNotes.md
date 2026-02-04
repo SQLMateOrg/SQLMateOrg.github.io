@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+6.7.5 - Feb 4, 2026
+- Bug fixes and stability improvements.
+
 6.7.3 - Nov 6, 2025
 - Fix an issue that lead to load database failed if there's unrecognized tokenizer on a virtual table.
 - Additional bug fixes and stability improvements.

@@ -4,6 +4,9 @@ title: SQLiteFlow
 description: SQLiteFlow for iOS release notes.
 ---
 
+6.7.5 - 2026年2月4日
+- 問題修復與穩定性改善。
+
 6.7.3 - 2025年11月6日
 - 修復了一個如果虛擬表上存在無法識別的令牌化器，導致數據庫加載失敗的問題。
 - 其它問題修復與穩定性改善。
