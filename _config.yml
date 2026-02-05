@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
-title: SQLiteFlow
+title: SQLMate
 description: SQLite Editor for Mac & iOS
 plugins:
   - jekyll-redirect-from
