@@ -1,5 +1,0 @@
-theme: jekyll-theme-cayman
-title: SQLMate
-description: SQLite Editor for Mac & iOS
-plugins:
-  - jekyll-redirect-from
